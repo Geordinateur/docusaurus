@@ -1,28 +1,28 @@
 # Pacman
 
 ## Installer un paquet 
-pacman -S *pkg*
+```pacman -S *pkg*```
 
 ## Installer et mettre à jour la liste des paquets
-pacman -Syu *pkg*
+```pacman -Syu *pkg*```
 
 ## Désinstaller un paquet 
-pacman -Rsc *pkg*
+```pacman -Rsc *pkg*```
 
 ## Chercher un paquet 
-pacman -Ss *query*
+```pacman -Ss *query*```
 
 ## Faire une upgrade 
-pacman -Syu 
+```pacman -Syu```
 
 ## Lister les paquets installés 
-pacman -Qe
+```pacman -Qe```
 
 ## Chercher un paquet installé 
-pacman -Qs *query*
+```pacman -Qs *query*```
 
 ## Lister les paquets inutiles
-pacman -Qdt
+```pacman -Qdt```
 
 ## Désinstaller les paquets inutiles
-pacman -Rns $(pacman -Qdtq)
+```pacman -Rns $(pacman -Qdtq)```
