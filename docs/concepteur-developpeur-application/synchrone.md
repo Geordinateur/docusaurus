@@ -75,4 +75,4 @@ En choisissant judicieusement entre ces deux approches et en les combinant effic
 - [Introduction to Asynchronous Programming in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 - [Synchronous vs Asynchronous Programming](https://www.geeksforgeeks.org/synchronous-vs-asynchronous-programming/)
 
-![Exemple de Synchrone et Asynchrone](images/synchrone-asynchrone.png)
+![Exemple de Synchrone et Asynchrone](../images/synchrone-asynchrone.png)

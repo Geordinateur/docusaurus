@@ -54,4 +54,4 @@ Les threads sont essentiels pour la programmation concurrente et la gestion de t
 - [Threads sur Wikipedia](https://fr.wikipedia.org/wiki/Thread_(informatique))
 - [Documentation threading de Python](https://docs.python.org/3/library/threading.html)
 
-![Exemple de threads](images/thread.png)
+![Exemple de threads](../images/thread.png)
